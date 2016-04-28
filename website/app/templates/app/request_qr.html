@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+{% load staticfiles %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.3.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/login.css' %}">
+    <title>QR Demo</title>
+</head>
+<body>
+
+<div class="login">
+	<h1>Request QR</h1>
+        <form id="register-form" action={{ action_str }} method="post">
+            {% csrf_token %}
+    	    {{ email_form }}
+        <button  class="btn btn-primary btn-block btn-large" >Submit</button>
+        </form>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,23 @@
+{
+  "name": "semx-peer",
+  "version": "1.0.0",
+  "description": "peer server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://ritwikdesai@iitr-peerjs-01.scm.azurewebsites.net:443/iitr-peerjs-01.git"
+  },
+  "keywords": [
+    "peer"
+  ],
+  "author": "ritwikdesai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "peer": "^0.2.8"
+  }
+}

@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+{% load staticfiles %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.3.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="{% static 'app/content/login.css' %}">
+    <title>Register Demo</title>
+</head>
+<body>
+
+<div class="login">
+	<h1>Sign Up</h1>
+        <form id="register-form" action="/register/" method="post">
+            {% csrf_token %}
+    	    {{ register_form }}
+        <button  class="btn btn-primary btn-block btn-large" >Register</button>
+        </form>
+</div>
+</body>
+</html>
+
