@@ -1,0 +1,38 @@
+Applications Memory Usage (kB):
+Uptime: 34046847 Realtime: 115142075
+
+** MEMINFO in pid 28435 [com.icloud.ritwikdesai] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap    21059    20992        0       16    23540    23453       86
+  Dalvik Heap     4601     4348        0        0     8308     7428      880
+ Dalvik Other      456      408        0        0                           
+        Stack      416      416        0        0                           
+       Cursor        4        4        0        0                           
+       Ashmem      128      128        0        0                           
+      Gfx dev     1272     1272        0        0                           
+    Other dev        6        0        4        0                           
+     .so mmap    15203      408    12496        4                           
+    .apk mmap     1367        0     1192        0                           
+    .ttf mmap       53        0        4        0                           
+    .dex mmap     4268        0     3852        0                           
+    .oat mmap     1212        0      104        0                           
+    .art mmap     1126      772        0        0                           
+   Other mmap      937        4      892        0                           
+   EGL mtrack    10680    10680        0        0                           
+      Unknown     7121     7108        0        0                           
+        TOTAL    69909    46540    18544       20    31848    30881      966
+ 
+ Objects
+               Views:       32         ViewRootImpl:        1
+         AppContexts:        3           Activities:        1
+              Assets:        3        AssetManagers:        3
+       Local Binders:       14        Proxy Binders:       18
+       Parcel memory:        5         Parcel count:       21
+    Death Recipients:        0      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 

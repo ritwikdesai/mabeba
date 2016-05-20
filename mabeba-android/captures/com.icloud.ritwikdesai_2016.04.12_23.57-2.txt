@@ -1,0 +1,37 @@
+TASK com.icloud.ritwikdesai id=382
+  ACTIVITY com.icloud.ritwikdesai/.MainActivity c0e6894 pid=28435
+    Local FragmentActivity 3aaf5db5 State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@2f544775
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@2f544775
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{e26430a V.E..... ... 0,0-540,960}
+        android.widget.LinearLayout{1273c77b V.E..... ... 0,0-540,888}
+          android.view.ViewStub{26359998 G.E..... ... 0,0-0,0 #1020375}
+          android.widget.FrameLayout{3d2ee5f1 V.E..... ... 0,0-540,888}
+            android.support.v7.widget.FitWindowsLinearLayout{206d85d6 V.E..... ... 0,0-540,888 #7f0d005c app:id/action_bar_root}
+              android.support.v7.widget.ViewStubCompat{6ed6057 G.E..... ... 0,0-0,0 #7f0d005d app:id/action_mode_bar_stub}
+              android.support.v7.widget.ContentFrameLayout{20b6b744 V.E..... ... 0,0-540,888 #1020002 android:id/content}
+                android.support.design.widget.CoordinatorLayout{1c3af02d V.ED.... ... 0,0-540,888}
+                  android.support.design.widget.AppBarLayout{2a142962 V.E..... ... 0,38-540,122}
+                    android.support.v7.widget.Toolbar{32fdaaf3 V.E..... ... 0,0-540,84 #7f0d0072 app:id/toolbar}
+                      android.widget.TextView{2b0a03b0 V.ED.... ... 24,21-189,62}
+                      android.support.v7.widget.ActionMenuView{2a836229 V.E..... ... 480,0-540,84}
+                        android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton{368f79ae VFED..C. ... 0,6-60,78}
+                  android.widget.RelativeLayout{3cbe034f V.E..... ... 0,122-540,888 #7f0d0075 app:id/fragmentWeb}
+                    android.webkit.WebView{2003aadc IFEDHVC. ... 0,0-540,766 #7f0d0081 app:id/webView}
+                  android.widget.RelativeLayout{1c6f7e5 V.E..... ... 0,122-540,888 #7f0d0074 app:id/fragment}
+                    android.widget.LinearLayout{15d82ba V.E..... ... 0,0-540,202}
+                      android.widget.FrameLayout{2881856b V.E..... ... 0,0-540,92}
+                        android.widget.LinearLayout{118e98c8 V.E..... ... 0,0-540,92}
+                          android.support.v7.widget.AppCompatTextView{1ef42d61 V.ED.... ... 24,24-73,68 #7f0d007d app:id/statusLabel}
+                          android.support.v7.widget.AppCompatTextView{dd11086 V.ED..C. ... 73,24-516,68 #7f0d007e app:id/statusText}
+                        android.widget.ProgressBar{22b10d47 G.ED.... ... 234,10-306,82 #7f0d007f app:id/loading_spinner}
+                      android.widget.ListView{3587974 VFED.VC. F.. 0,92-540,202 #7f0d0080 app:id/accountListView}
+                        android.widget.LinearLayout{5653e9d V.E..... ... 0,0-540,110}
+                          android.widget.TextView{2f9daf12 V.ED.... ... 24,24-516,57 #7f0d0070 app:id/siteName}
+                          android.widget.TextView{b6736e3 V.ED.... ... 24,57-516,86 #7f0d0071 app:id/username}
+        android.view.View{243db8e0 V.ED.... ... 0,888-540,960 #1020030 android:id/navigationBarBackground}

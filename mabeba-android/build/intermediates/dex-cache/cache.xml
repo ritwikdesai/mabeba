@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ritwikdesai/Developer/meba-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/ritwikdesai/Developer/meba-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_4fcef7d3698ef1166136908a383285ba99c6210a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ritwikdesai/Developer/meba-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/ritwikdesai/Developer/meba-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_49088f7b79ceaaa8ffc877e17aa45f0e3008c70a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ritwikdesai/Developer/meba-android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e481bc8ddba3d819e610472e55f434df988d9edd">
+        <dex dex="/Users/ritwikdesai/Developer/meba-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ea7d8c60f066dc5b8ba9abfd6a4872e910321c36/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ritwikdesai/.gradle/caches/modules-2/files-2.1/org.jboss.aerogear/aerogear-otp-java/1.0.0/eea9de26abec1242b00d3070a31d1005a75d3c25/aerogear-otp-java-1.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="eea9de26abec1242b00d3070a31d1005a75d3c25">
+        <dex dex="/Users/ritwikdesai/Developer/meba-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/aerogear-otp-java-1.0.0_92809105737187cce6c4af656e60e56c0a34c6d8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ritwikdesai/Developer/meba-android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2b566ee11300f0156fd1f0a690384e8f98a09af">
+        <dex dex="/Users/ritwikdesai/Developer/meba-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c4086258a4d8a3d49b569d4e2e7b73e900f0f442/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ritwikdesai/Developer/meba-android/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/ritwikdesai/Developer/meba-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_2b8d2f31903ff8ea09dcb35006e2ba89bc7e2241/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ritwikdesai/Developer/meba-android/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="744a4b394a9a7db8a4c4680836d8544802a9cd64">
+        <dex dex="/Users/ritwikdesai/Developer/meba-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.journeyapps-zxing-android-embedded-3.0.2_d3ba874e6aea461f8084e18ef8c7bd41d3b005a9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ritwikdesai/Developer/meba-android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/ritwikdesai/Developer/meba-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_d46ec2955e8951925173c2d01847fcff6566e9a7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ritwikdesai/Developer/meba-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/ritwikdesai/Developer/meba-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_478db494bedcdd44c90652409e4b2e4c9f860fd2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ritwikdesai/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.0/e019d15a13a9786f881141d2df6654b8510bce8b/core-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="/Users/ritwikdesai/Developer/meba-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.0_7179f02c927aed8037690d57493ab7f27aa8f736/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ritwikdesai/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/ritwikdesai/Developer/meba-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_6543d2c2a19802701ac08a4622167a50e99a91af/classes.dex" />
+    </item>
+
+</items>

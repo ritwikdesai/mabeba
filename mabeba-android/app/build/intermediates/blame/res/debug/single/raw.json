@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ritwikdesai/Developer/meba-android/app/build/intermediates/res/merged/debug/raw/zxing_beep.ogg",
+        "source": "/Users/ritwikdesai/Developer/meba-android/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/res/raw/zxing_beep.ogg"
+    },
+    {
+        "merged": "/Users/ritwikdesai/Developer/meba-android/app/build/intermediates/res/merged/debug/raw/semxstore.bks",
+        "source": "/Users/ritwikdesai/Developer/meba-android/app/src/main/res/raw/semxstore.bks"
+    }
+]

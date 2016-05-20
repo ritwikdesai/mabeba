@@ -1,0 +1,37 @@
+Applications Memory Usage (kB):
+Uptime: 34057041 Realtime: 115152270
+
+** MEMINFO in pid 28435 [com.icloud.ritwikdesai] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap    21115    21064        0        0    23540    23353      186
+  Dalvik Heap     4605     4384        0        0    10700     6540     4160
+ Dalvik Other      312      312        0        0                           
+        Stack      416      416        0        0                           
+       Ashmem      128      128        0        0                           
+      Gfx dev     1272     1272        0        0                           
+    Other dev        6        0        4        0                           
+     .so mmap    15219      412    12496        4                           
+    .apk mmap     1367        0     1192        0                           
+    .ttf mmap       53        0        4        0                           
+    .dex mmap     4268        0     3852        0                           
+    .oat mmap     1240        0      120        0                           
+    .art mmap     1487      780      336        0                           
+   Other mmap      939        4      892        0                           
+   EGL mtrack    10680    10680        0        0                           
+      Unknown     7121     7108        0        0                           
+        TOTAL    70228    46560    18896        4    34240    29893     4346
+ 
+ Objects
+               Views:       32         ViewRootImpl:        1
+         AppContexts:        3           Activities:        1
+              Assets:        3        AssetManagers:        3
+       Local Binders:       14        Proxy Binders:       18
+       Parcel memory:        5         Parcel count:       21
+    Death Recipients:        0      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 

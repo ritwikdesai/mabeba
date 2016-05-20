@@ -1,0 +1,89 @@
+Applications Graphics Acceleration Info:
+Uptime: 34054008 Realtime: 115149237
+
+** Graphics info for pid 28435 [com.icloud.ritwikdesai] **
+
+Recent DisplayList operations
+                  DrawRenderNode
+                    Save
+                    ClipRect
+                    DrawRenderNode
+                      Save
+                      ClipRect
+                      DrawText
+                      RestoreToCount
+                    DrawRenderNode
+                      Save
+                      ClipRect
+                      DrawText
+                      RestoreToCount
+                    RestoreToCount
+              DrawRenderNode
+                DrawRect
+              DrawRenderNode
+                DrawRenderNode
+                  DrawRect
+                DrawRenderNode
+                  Save
+                  ClipRect
+                  DrawText
+                  RestoreToCount
+                DrawRenderNode
+                  DrawRenderNode
+                    DrawRenderNode
+                    Save
+                    Translate
+                    ConcatMatrix
+                    Save
+                    Save
+                    DrawBitmap
+                    RestoreToCount
+  DrawRenderNode
+    DrawRenderNode
+      DrawRect
+RestoreToCount
+DrawRect
+DrawRect
+multiDraw
+  DrawText
+multiDraw
+  DrawText
+DrawShadow
+DrawRect
+DrawRect
+DrawRect
+DrawText
+DrawBitmap
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache             5184 / 25165824
+  LayerCache                  0 / 16777216 (numLayers = 0)
+  Layers total          0 (numLayers = 0)
+  RenderBufferCache           0 /  2097152
+  GradientCache               0 /   524288
+  PathCache               22749 / 10485760
+  TessellationCache           0 /  1048576
+  TextDropShadowCache         0 /  2097152
+  PatchCache                  0 /   131072
+  FontRenderer 0 A8      524288 /   524288
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total   524288 /   524288
+Other:
+  FboCache                    0 /        0
+Total memory usage:
+  552221 bytes, 0.53 MB
+
+Profile data in ms:
+
+	com.icloud.ritwikdesai/com.icloud.ritwikdesai.MainActivity/android.view.ViewRootImpl@19dc2799 (visibility=0)
+View hierarchy:
+
+  com.icloud.ritwikdesai/com.icloud.ritwikdesai.MainActivity/android.view.ViewRootImpl@19dc2799
+  27 views, 27.66 kB of display lists
+
+
+Total ViewRootImpl: 1
+Total Views:        27
+Total DisplayList:  27.66 kB
+
