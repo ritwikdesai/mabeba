@@ -1,6 +1,4 @@
 # mabeba
-Masters Thesis code
-
 1. Android App - Requires Android >= 5.0
 2. Browser Extension on Google Chrome
 3. Website is deployed as a Django project (* change extension id in index.js in website content dir)
